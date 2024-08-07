@@ -1,4 +1,4 @@
 echo "Testing"
-ping -n google.com
+ping -n xvideos.com
 echo "faceook"
 ping -n facebook.com
